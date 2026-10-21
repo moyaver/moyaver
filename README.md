@@ -1,27 +1,24 @@
 ## Mohammad Jaber
 
-**Kotlin & Compose Multiplatform engineer.** I write the app once in Kotlin and ship it to Android and iOS. Most of my time goes to banking apps, and I care about keeping them secure.
+**Senior Android engineer, now mostly Kotlin & Compose Multiplatform.** I write an app once in Kotlin and ship it to Android and iOS. Based in Beirut.
 
-- 🏦 **Neo MENA Technologies:** building banking and brokerage apps for Android and iOS. Right now I'm migrating one of them to Compose Multiplatform.
-- 🏍️ **Yavero Labs:** founder. Building [Yavero Auto](https://auto.yavero.io), a motorcycle marketplace. It's one Kotlin Multiplatform app for Android and iOS, with a Kotlin backend.
-- 💳 **Before that, Monty Mobile:** shipped MontyPay payments and eSIM products.
+- 🏦 **Neo MENA Technologies, fintech (2023–now):** I architected and co-lead the Compose Multiplatform rewrite of a Gulf bank's wealth and brokerage app for Android and iOS. I wrote most of its architecture decisions, its device-bound request signing, and its always-on certificate pinning.
+- 🏍️ **Yavero Labs, founder:** building [Yavero Auto](https://auto.yavero.io), a motorcycle marketplace for Lebanon, now in beta. One Kotlin Multiplatform codebase powers three apps: buyer and dealer apps for Android and iOS, plus a desktop admin app.
+- 📈 **Salzburg, Amazon Nova Hackathon:** a portfolio-risk copilot built solo. An agent on Amazon Nova (AWS Bedrock) investigates a portfolio and cites its evidence. A rules engine sets the risk score, not the model. Kotlin Multiplatform app with a Ktor server.
+- 📶 **Before:** Monty Mobile (2021–2023), Android lead on the Jetpack Compose rewrite of the Monty eSIM app. Toothpick (2021), legacy Java Android.
 
-### Things I've built
+### Side projects
 
-| Project | What it is |
-| --- | --- |
-| [**Brief**](https://github.com/moyaver/brief) | Audits Splunk apps for AI-agent readiness. Scores each saved search, proposes better descriptions as a diff, and generates an MCP manifest. |
-| **Chroma** | An AI agent that builds generative-UI dashboards for Splunk. *(private)* |
-| **Kothless** | Kotlin Multiplatform passwordless auth using public-key crypto, backed by Android Keystore and the iOS Secure Enclave. *(private)* |
+**Kothless:** passwordless auth for Kotlin Multiplatform, with keys in the Android Keystore and iOS Secure Enclave · **Brief:** audits Splunk apps for AI-agent readiness · **lokala:** a self-hosted manager for localization strings (Ktor + Postgres)
 
-### What I work with
+### Tools I reach for
 
-- **Mobile:** Kotlin, Jetpack Compose, Compose Multiplatform, Coroutines/Flow, MVI/MVVM, modular Gradle builds
-- **Security:** OWASP MASVS, SSL pinning, Play Integrity, Keystore/Secure Enclave, R8. In my spare time I do pentesting and reverse engineering on TryHackMe.
-- **Also:** Swift, Python backends, React admin panels, and AI agent tooling (MCP)
+Kotlin · Compose Multiplatform · Jetpack Compose · Coroutines/Flow · Ktor · Navigation 3 · Koin · MVI · Gradle convention plugins · SKIE · Maestro · Roborazzi · Konsist · Detekt · Sentry · AWS Bedrock
+
+Security: certificate pinning, Keystore and Secure Enclave signing, biometrics, R8, freeRASP. In my spare time I do pentesting and reverse engineering on TryHackMe.
 
 ### Find me
 
 [moyaver.github.io](https://moyaver.github.io) · [LinkedIn](https://linkedin.com/in/mj00) · [mhammadjaber00@outlook.com](mailto:mhammadjaber00@outlook.com)
 
-<sub>Most of my production work lives in private company repos. The public projects here are the parts I can share.</sub>
+<sub>My repos are private: client work, and products that haven't launched yet.</sub>
