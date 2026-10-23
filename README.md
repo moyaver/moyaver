@@ -7,7 +7,7 @@ Senior Android & Kotlin Multiplatform engineer in Beirut. I build apps where the
 - **Yavero Labs:** founder. I write the mobile apps for [Yavero Auto](https://auto.yavero.io), a motorcycle marketplace for Lebanon, now in beta.
 
 **Recently**
-- **The Portfolio Gazette** (codename Salzburg), my solo Amazon Nova Hackathon entry: a portfolio-risk app where an agent on Amazon Bedrock investigates and a rules engine sets the score.
+- **Salzburg**, my solo Amazon Nova Hackathon entry: a portfolio-risk app where an agent on Amazon Bedrock investigates and a rules engine sets the score.
 
 **Usually reaching for:** Kotlin, Compose Multiplatform, Coroutines/Flow, Ktor, Koin, Navigation 3, SKIE, Maestro, Roborazzi, Konsist
 
