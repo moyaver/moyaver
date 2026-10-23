@@ -2,8 +2,8 @@
 
 Senior Android & Kotlin Multiplatform engineer in Beirut. I build apps where the business logic and most of the UI are shared Kotlin (Compose Multiplatform), with native interop where each platform needs it.
 
-**Now**
-- **Neo MENA Technologies:** co-leading the Compose Multiplatform rewrite of a Gulf bank's investment app for Android and iOS, mostly on architecture and security.
+**Work**
+- **Neo MENA Technologies:** using Kotlin Multiplatform and Compose Multiplatform to build a banking and investment app for Android and iOS from one codebase.
 - **Yavero Labs:** founder. I write the mobile apps for [Yavero Auto](https://auto.yavero.io), a motorcycle marketplace for Lebanon, now in beta.
 
 **Recently**
